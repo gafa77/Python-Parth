@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<travelPackages>
+<package id='Paris vacation'>
+<description>Experience the magnificent beauty of Paris and the french culture.</description>
+<destination>Paris, France</destination>
+<price>3000</price>
+<duration>7</duration>
+<payment>
+<EMIoption>yes</EMIoption>
+<refund>yes</refund>
+</payment>
+</package>
+<package id='Hawaii Adventure'>
+<description>Embark on an exciting adventure in Hawaii beaches!
+</description>
+<destination>Hawaii, USA</destination>
+<price>4000</price>
+<duration>10</duration>
+<payment>
+<EMIoption>no</EMIoption>
+<refund>no</refund>
+</payment>
+</package>
+<package id='Italian Getaway'>
+<description>Indulge in the beauty and charm of Italy and get an all-
+inclusive authentic Italian food tour!</description>
+<destination>Italy</destination>
+<price>2000</price>
+<duration>8</duration>
+<payment>
+<EMIoption>yes</EMIoption>
+<refund>no</refund>
+</payment>
+</package>
+<package id='Andaman Island Retreat'>
+<description>Experience the beauty of Island beaches,inclusive scuba
+diving and Night kayaking through mangroves.</description>
+<destination>Andaman and Nicobar Islands</destination>
+<price>800</price>
+<duration>8</duration>
+<payment>
+<EMIoption>no</EMIoption>
+<refund>yes</refund>
+</payment>
+</package>
+</travelPackages>
